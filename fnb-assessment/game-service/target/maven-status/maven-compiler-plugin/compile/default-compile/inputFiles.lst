@@ -1,0 +1,17 @@
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/App.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/exceptions/GameException.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/model/api/PitResponseDTO.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/model/dto/PlayerDTO.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/model/dto/GameStatus.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/services/GameServiceStrategy.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/model/dto/MancalaPitDTO.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/model/api/GameResponseDTO.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/config/ApplicationConfig.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/model/api/requests/MakeMoveReqDTO.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/games/GameStrategy.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/games/Mancala.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/model/api/requests/StartGameReqDTO.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/services/GameService.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/model/dto/PitDTO.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/controller/GameController.java
+/Users/mamadise/Downloads/fnb-assessment/game-service/src/main/java/org/assessment/model/dto/GameDTO.java

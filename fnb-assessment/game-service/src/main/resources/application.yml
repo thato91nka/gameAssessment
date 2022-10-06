@@ -1,0 +1,5 @@
+config:
+  games:
+    - name: Mancala
+      numPits: 6
+      numStones: 6
